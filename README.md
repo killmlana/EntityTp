@@ -6,4 +6,4 @@
 #### Wolves, Cats and other pets: 10 blocks
 #### Horses, Llamas, Donkeys: You have to ride them while teleporting
 
-# WARNING: ## This is not a teleportation plugin. You need an external teleportation plugin. You can use this with major plugins like Essentials, AdvancedTp, etc. or you can use it in vanilla minecraft teleportation commands.
+## WARNING: This is not a teleportation plugin. You need an external teleportation plugin. You can use this with major plugins like Essentials, AdvancedTp, etc. or you can use it in vanilla minecraft teleportation commands.
